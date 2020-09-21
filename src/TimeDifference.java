@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class TimeDifference {
     public static void main(String[] args) {
-        System.out.println();
         Scanner scan = new Scanner(System.in);
         int firstHour = scan.nextInt();
         int firstMinutes = scan.nextInt();
